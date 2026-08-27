@@ -1,6 +1,6 @@
 {
   "banner": true,
-  "Interstitial": true,
-  "time-ecompensed": "60",
-
+  "interstitial": true,
+  "rewarded": true,
+  "rewarded_cooldown_minutes": 60
 }
