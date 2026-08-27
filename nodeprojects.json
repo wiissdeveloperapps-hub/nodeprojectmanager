@@ -1,5 +1,9 @@
 {
   "projectName": "menuforgeviews",
   "nodeRedirect": "2",
-  "updateDate": "2026-07-21"
+  "updateDate": "2026-07-21",
+  "banner": true,
+  "interstitial": true,
+  "rewarded": true,
+  "rewarded_cooldown_minutes": 60
 }
